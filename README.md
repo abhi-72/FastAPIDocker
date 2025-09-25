@@ -1,0 +1,2 @@
+# FastAPIDocker
+To dockerize fastapi
